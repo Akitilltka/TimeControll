@@ -41,4 +41,4 @@ async def хелп(ctx):
 
 
 
-bot.run('MTE4ODA4MTU0NTExOTAyMzEwNA.Gx9-Iz.g5XJBUGQNj9MlDVsasrQ951ejjVsCirtaAAs7s')
+bot.run('') # token
